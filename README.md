@@ -1,7 +1,7 @@
 # ThesisProject
 
 - Anti Abuse of collectibles
-- Developing Python application to identify authentic photocards
+- Developing an application to identify authentic K-photocards and notify waste impact
 
 
 
