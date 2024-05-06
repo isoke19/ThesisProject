@@ -1,7 +1,7 @@
 # ThesisProject
 
 - Anti Abuse of collectibles
-- Developing an application to identify authentic K-photocards and waste impact for sleeve materials 
+- Developing an application to identify authentic K-photocards and waste impact.
 
 
 
