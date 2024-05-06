@@ -48,7 +48,7 @@ print(df.head)
 #figure out the range and the sum
 for i, value in enumerate(df['wasteCATAG']):
    #if condition for parsing materials into segments
-    if ( 2 <= i <= 10):
+    if ( 1 <= i <= 18):
          new_value = input(f"What CAT is this {df.loc[i, 'Materials']}: ")
          df.loc[i, 'wasteCATAG'] = str(new_value) 
 
