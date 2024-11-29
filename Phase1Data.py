@@ -1,4 +1,4 @@
-#Project Name:   Anti-abuse Online Market for Collectibles
+#Project Name:   Image detection of Online Market Korean photocards for Collectibles
 #Project Details: A “ Card randomizer” Python program was used to select the precise cell within each load for extraction and categorization for kpop photocards
 #it identifies prices, title and waste material for  the percentages of storing materials that collectors such as plastic sleeves 
 #(for storing cards) photocards to educate them on the waste impact
